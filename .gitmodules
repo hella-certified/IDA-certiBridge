@@ -1,0 +1,27 @@
+[submodule "src/vendor/httplib"]
+	path = src/vendor/httplib
+	url = https://github.com/yhirose/cpp-httplib.git
+[submodule "src/vendor/json"]
+	path = src/vendor/json
+	url = https://github.com/nlohmann/json.git
+[submodule "src/vendor/tomlplusplus"]
+	path = src/vendor/tomlplusplus
+	url = https://github.com/marzer/tomlplusplus.git
+[submodule "src/vendor/spdlog"]
+	path = src/vendor/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "src/vendor/simdjson"]
+	path = src/vendor/simdjson
+	url = https://github.com/simdjson/simdjson.git
+[submodule "src/vendor/miniz"]
+	path = src/vendor/miniz
+	url = https://github.com/richgel999/miniz.git
+[submodule "src/vendor/zydis"]
+	path = src/vendor/zydis
+	url = https://github.com/zyantific/zydis.git
+[submodule "src/vendor/asmjit"]
+	path = src/vendor/asmjit
+	url = https://github.com/asmjit/asmjit.git
+[submodule "src/vendor/tlsh"]
+	path = src/vendor/tlsh
+	url = https://github.com/trendmicro/tlsh.git

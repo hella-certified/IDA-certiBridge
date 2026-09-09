@@ -1,0 +1,46 @@
+# build artifacts
+build/
+target/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.dll
+*.exp
+*.so
+*.dylib
+*.a
+*.o
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ide & os
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+Thumbs.db
+.DS_Store
+
+# runtime generated diary & logs
+DIARY.md
+diary.json
+*.log
+
+# local machine config
+config.toml
+
+# ida temporary database files
+*.idb
+*.i64
+*.nam
+*.til
+*.id0
+*.id1
+*.id2

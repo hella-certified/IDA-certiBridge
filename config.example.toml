@@ -1,0 +1,14 @@
+[ida]
+# Set your IDA Pro or portable IDA root directory (e.g. C:/IDA or /opt/ida)
+# If empty, certiBridge will auto-detect from IDAUSR, IDA_DIR, or system plugins directory
+portablePath = ""
+pluginsPath = ""
+
+[bridge]
+basePort = 13371
+maxPort = 13390
+host = "127.0.0.1"
+
+[diary]
+outputMarkdown = "DIARY.md"
+outputJson = "diary.json"
